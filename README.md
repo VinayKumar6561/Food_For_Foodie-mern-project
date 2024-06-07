@@ -1,3 +1,6 @@
+About:
+Developed a comprehensive food delivery web application using the MERN stack (MongoDB, Express, React, Node.js). Implemented user authentication, dynamic cart management, and order processing functionalities. Designed a responsive user interface with React, facilitating a seamless user experience. Utilized MongoDB for efficient data storage and retrieval, ensuring scalability and performance.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
